@@ -29,8 +29,8 @@ int mandelBrot(float real, float imag) {
 }
 
 
-const int WIDTH = 1920*15;
-const int HEIGHT = 1080*15;
+const int WIDTH = 1920;
+const int HEIGHT = 1080;
 
 const int RE_START = -2;
 const int RE_END = 1;
